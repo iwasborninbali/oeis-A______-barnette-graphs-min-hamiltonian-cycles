@@ -1,0 +1,1 @@
+n=42 target=40 found at graph=1395 seconds=3.4

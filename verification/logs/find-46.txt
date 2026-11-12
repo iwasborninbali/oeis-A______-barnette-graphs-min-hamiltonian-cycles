@@ -1,0 +1,3 @@
+n=46 graphs_examined=10000 seconds=33.4
+n=46 graphs_examined=20000 seconds=65.7
+n=46 target=44 found at graph=21880 seconds=71.9

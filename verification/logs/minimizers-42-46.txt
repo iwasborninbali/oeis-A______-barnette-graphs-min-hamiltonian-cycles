@@ -1,0 +1,2 @@
+data/minimizers/42.txt: n=42 cycles=40
+data/minimizers/46.txt: n=46 cycles=44

@@ -1,0 +1,10 @@
+n=8 graphs=1 min=6
+n=10 graphs=0 min=empty
+n=12 graphs=1 min=8
+n=14 graphs=1 min=12
+n=16 graphs=2 min=10
+n=18 graphs=2 min=16
+n=20 graphs=8 min=12
+n=22 graphs=8 min=20
+n=24 graphs=32 min=14
+n=26 graphs=57 min=24

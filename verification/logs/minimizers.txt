@@ -1,0 +1,17 @@
+data/minimizers/12.txt: n=12 cycles=8
+data/minimizers/14.txt: n=14 cycles=12
+data/minimizers/16.txt: n=16 cycles=10
+data/minimizers/18.txt: n=18 cycles=16
+data/minimizers/20.txt: n=20 cycles=12
+data/minimizers/22.txt: n=22 cycles=20
+data/minimizers/24.txt: n=24 cycles=14
+data/minimizers/26.txt: n=26 cycles=24
+data/minimizers/28.txt: n=28 cycles=16
+data/minimizers/30.txt: n=30 cycles=28
+data/minimizers/32.txt: n=32 cycles=18
+data/minimizers/34.txt: n=34 cycles=32
+data/minimizers/36.txt: n=36 cycles=20
+data/minimizers/38.txt: n=38 cycles=36
+data/minimizers/40.txt: n=40 cycles=22
+data/minimizers/44.txt: n=44 cycles=24
+data/minimizers/8.txt: n=8 cycles=6
