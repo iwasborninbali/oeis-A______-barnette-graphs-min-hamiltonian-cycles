@@ -1,7 +1,11 @@
 # OEIS candidate (no A-number yet): minimum Hamiltonian cycles in Barnette graphs
 
 <!-- oeis-status:begin -->
-**OEIS status: not submitted.** (replaced by the registry tool)
+**OEIS status: not submitted; no A-number yet** (lab registry, 13 Nov 2026).
+
+- A______, minimum number of Hamiltonian cycles of a Barnette graph on n vertices: **candidate** (2026-11-13: repository built (core c4); prior art found: Gibbons (July 2026)). Certificate: partial.
+
+Rules and the full registry: [athanor-oeis](https://github.com/iwasborninbali/athanor-oeis/blob/main/REGISTRY.md).
 <!-- oeis-status:end -->
 
 ## Definition
